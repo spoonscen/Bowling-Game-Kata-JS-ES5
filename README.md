@@ -9,4 +9,4 @@ npm install
 
 ##Running the tests
 This command will watch the files for changes and run the tests each time a file is changed
-`npm run test`
+`npm test`
