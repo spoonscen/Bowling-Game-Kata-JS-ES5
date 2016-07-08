@@ -1,0 +1,15 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "Bowling Game Kata",
+  "main": "BowlingGame.js",
+  "scripts": {
+    "test": "mocha -w *.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.5.3"
+  }
+}

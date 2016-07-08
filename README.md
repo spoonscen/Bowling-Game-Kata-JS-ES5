@@ -1,1 +1,0 @@
-# Bowling-Game-Kata-JS-ES5
