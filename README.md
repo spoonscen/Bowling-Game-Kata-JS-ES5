@@ -1,11 +1,12 @@
 ####Requirements: nodejs
 
 ##Setup
-`npm install`
+1. `npm install`
+2. Open `Bowling Game Kata JS - ES5.ppt`
 
 ##If you are using Sublime Text
 1. Open bowling-game.sublime-project
-2. Open the two column view `⌘ + ⌥ + 2`
+2. Open the two column view `⌘` + `⌥` + `2`
 
 ##If you are using another text editor start here
 3. Open BowlingGame.js on the left
