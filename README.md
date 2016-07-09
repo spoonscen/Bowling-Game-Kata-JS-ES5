@@ -1,5 +1,6 @@
+####Requirements: nodejs
+
 ##Setup
-Requirements: nodejs
 `npm install`
 
 ##If you are using Sublime Text
@@ -10,8 +11,11 @@ Requirements: nodejs
 3. Open BowlingGame.js on the left
 4. Open BowlingGame.spec.js on the right
 
-##Ideal Screen Setup is something like this with easy access to the power point
-[[http://i.imgur.com/8tGf5pc.png|alt=screenshot]]
+##How I like to set it up
+One one monitor:
+![Screenshot](http://i.imgur.com/8tGf5pc.png)
+On the other:
+![Screenshot2](http://i.imgur.com/aEde1SY.jpg)
 
 
 ##Running the tests
