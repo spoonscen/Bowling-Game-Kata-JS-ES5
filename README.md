@@ -3,7 +3,7 @@ Requirements: nodejs
 `npm install`
 
 ##If you are using Sublime Text
-1. Open bowling-game.sublime-project
+1. Open Sublime
 2. Open the two column view `⌘ + ⌥ + 2`
 
 ##If you are using another text editor start here
