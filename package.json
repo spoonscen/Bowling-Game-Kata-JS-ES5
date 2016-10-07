@@ -4,7 +4,7 @@
   "description": "Bowling Game Kata",
   "main": "BowlingGame.js",
   "scripts": {
-    "test": "mocha -w *.js"
+    "test": "mocha -w practice/*.js"
   },
   "author": "",
   "license": "ISC",
